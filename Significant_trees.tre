@@ -1,0 +1,4 @@
+#nexus
+begin trees;
+  TREE Acj6 = ((((Drosophila_melanogaster<1>_1:89.74,Musca_domestica<0>_1:89.74)<5>_1:31.9338,Glossina_brevipalpis<4>_1:121.674)<9>_1:8.07094,(Glossina_fuscipes<3>_2:5.89467,Glossina_palpalis<2>*_4:5.89467)<8>_2:123.85)<12>_1:2.25526,(Glossina_morsitans<7>_2:102.233,Glossina_pallidipes<6>_2:102.233)<11>*_2:29.7665,Glossina_austeni<10>_1:132)<13>_1;
+end;
